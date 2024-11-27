@@ -1,7 +1,9 @@
 # MEV_Bot_Ethereum_Flashbots
 Exploration of High Frequency Trading on Ethereum
 
-Simple, Blind Arbitrage Bot via Flashbots
+Firstly, a limit order bot using TypeScript
+
+Secondly, deploying a simple, blind arbitrage bot via Flashbots
 
 # simple-blind-arbitrage
 This repository contains a simple, mechanical system for blindly submitting atomic arbitrage opportunities to the Flashbots MEV-Share Node. For more details on MEV-Share please see this [beta launch announcement](https://collective.flashbots.net/t/announcing-mev-share-beta/1650) and the [docs](https://docs.flashbots.net/flashbots-mev-share/overview). For high level design details see [the design document on the Flashbots Forum](https://collective.flashbots.net/t/mev-share-programmably-private-orderflow-to-share-mev-with-users/1264).
